@@ -1,6 +1,6 @@
 # Algorithm_04
 
-1. Model 1
+1. Model 1  
 1-1) Model
 
 ![image](https://user-images.githubusercontent.com/107315938/173197186-6eb3566b-1be7-48fa-adaf-e94120fdf97c.png)
@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/107315938/173197311-829c08b9-a4ca-4e7a-b4cb-c48007105696.png)
 
 
-2. Model 2
+2. Model 2  
 2-1) Model
 
 ![image](https://user-images.githubusercontent.com/107315938/173197693-872a3953-7511-4e2f-ba01-447fa7532bb5.png)
@@ -45,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/107315938/173197764-64effbd3-4bc6-48e4-89ec-bfba680b03f5.png)
 
 
-3. Model 3
+3. Model 3  
 3-1) Model
 
 3-2) Training with Training loss
