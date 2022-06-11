@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/107315938/173197311-829c08b9-a4ca-4e7a-b4cb-c48007105696.png)
 
 
-**2. Model 2  **
+**2. Model 2**
 
 2-1) Model
 
@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/107315938/173197764-64effbd3-4bc6-48e4-89ec-bfba680b03f5.png)
 
 
-**3. Model 3  **
+**3. Model 3**
 
 3-1) Model
 
