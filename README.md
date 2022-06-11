@@ -1,6 +1,6 @@
 # Algorithm_04
 
-##**1. Model 1**
+## **1. Model 1**
 
 1-1) Model  
 ![image](https://user-images.githubusercontent.com/107315938/173197186-6eb3566b-1be7-48fa-adaf-e94120fdf97c.png)
